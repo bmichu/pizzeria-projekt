@@ -5,3 +5,4 @@ Dynamic website created as exercise for Web Developer Bootcamp in Kodilla
 
 **Repository**: https://github.com/bmichu/pizzeria-projekt.git
 
+**Heroku**:  https://pizeria-app123.herokuapp.com/
